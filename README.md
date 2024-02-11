@@ -1,5 +1,5 @@
-# Busraja_Flutter_app
-BUS RAJA(Bus tracking application using flutter ,figma,firebase)
+# HALT_Flutter_app
+HALT(Bus tracking application using flutter ,figma,firebase)
           Figma - I designed an app
           Application was crafted with Flutter.
           Backend : Firebase
